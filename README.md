@@ -18,10 +18,10 @@ Turma do 2ºSESC-Informática
 _Github_
 
 <br>
-1.aula1
-0.aula2
-1.aula3
-_git hub
+1. aula1
+0. aula2
+1. aula3
+_git hub_
 
 - [ ] opção 1 
 - [ ] opção 2
