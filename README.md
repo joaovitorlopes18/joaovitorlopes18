@@ -16,6 +16,22 @@ Turma do 2ºSESC-Informática
 <hr>
 **Github**
 _Github_
+
+<br>
+1.aula1
+0.aula2
+1.aula3
+_git hub
+
+- [ ] opção 1 
+- [ ] opção 2
+- [ ] opção 3 
+
+# TITULO 1 
+***
+[teen wolf] (https://criticalhits.com.br/wp-content/uploads/2019/10/teen-wolf.jpg)
+🐺
+
 <!--
 **joaovitorlopes18/joaovitorlopes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
